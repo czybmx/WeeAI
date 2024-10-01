@@ -24,8 +24,8 @@ MAX_CHARS = 2000
 
 # TTS configuration
 TTS_SERVER_URL = "http://127.0.0.1:9880/tts"
-REF_AUDIO_PATH = "C:\\Users\\chong\\Desktop\\gpt\\gguai.wav"
-PROMPT_TEXT = "乖乖，乖乖束手就擒，免你皮肉之苦"
+REF_AUDIO_PATH = "C:\\Users\\Desktop\\Sound\\hello my friend, how are you doing.wav"
+PROMPT_TEXT = "hello my friend, how are you doing"
 
 # Audio output device name
 OUTPUT_DEVICE = "default"  # or specify device name
