@@ -32,9 +32,9 @@ WeeAI is an AI-powered chat application built with Streamlit, integrating multip
   - `Pillow`
 
 - **External Services**:
-  - **Ollama Server**: For AI text generation. Should be running at `[http://localhost:11434/api/generate]`.
+  - **Ollama Server**: For AI text generation. Should be running at `[http://localhost:11434/api/generate]`.：：：MODEL:[https://ollama.com/library/qwen2.5:14b]
   - **TTS Server**: For text-to-speech. Should be running at `[http://127.0.0.1:9880/tts]`.【IM USING GPT-SoVITS-v2-240821】：：：[https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file]
-  - **Stable Diffusion API**: For image generation. Should be running at `[http://127.0.0.1:9999/sdapi/v1/txt2img]`.【IM USING SD-FORGE-WEBUI】：：：[https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file]
+  - **Stable Diffusion API**: For image generation. Should be running at `[http://127.0.0.1:9999/sdapi/v1/txt2img]`.【IM USING SD-FORGE-WEBUI】：：：[https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file]：：：MODEL:[https://civitai.com/models/439889/prefect-pony-xl]
 
 - **Audio Output Device**: Ensure that an audio output device is available and correctly configured.
 
