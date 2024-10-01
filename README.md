@@ -42,7 +42,8 @@ WeeAI is an AI-powered chat application built with Streamlit, integrating multip
 - **External Services**:
   - **Ollama Server**: For AI text generation. Should be running at `[http://localhost:11434/api/generate]`.：：：MODEL:[https://ollama.com/library/qwen2.5:14b]
   - **TTS Server**: For text-to-speech. Should be running at `[http://127.0.0.1:9880/tts]`.【IM USING GPT-SoVITS-v2-240821】：：：[https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file]
-  - **Stable Diffusion API**: For image generation. Should be running at `[http://127.0.0.1:9999/sdapi/v1/txt2img]`.【IM USING SD-FORGE-WEBUI】：：：[https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file]：：：MODEL:[https://civitai.com/models/439889/prefect-pony-xl]
+  - **Stable Diffusion API**: For image generation. Should be running at `[http://127.0.0.1:9999/sdapi/v1/txt2img]`.【IM USING SD-FORGE-WEBUI】：：：[https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file]
+  - MODEL:[https://civitai.com/models/439889/prefect-pony-xl]
 
 - **Audio Output Device**: Ensure that an audio output device is available and correctly configured.
 
@@ -133,7 +134,8 @@ WeeAI 是一个由 Streamlit 构建的 AI 聊天应用程序，集成了多个 A
 - **外部服务**：
   - **Ollama 服务器**：用于 AI 文本生成。应在 `[http://localhost:11434/api/generate]` 运行。：：：模型:[https://ollama.com/library/qwen2.5:14b]
   - **TTS 服务器**：用于文本到语音。应在 `[http://127.0.0.1:9880/tts]` 运行。【我使用GPT-SoVITS-v2-240821】：：：[https://github.com/RVC-Boss/GPT-SoVITS/blob/main/docs/cn/README.md]
-  - **Stable Diffusion API**：用于图像生成。应在 `[http://127.0.0.1:9999/sdapi/v1/txt2img]` 运行。【我使用SD-FORGE-WEBUI】：：：[https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file]：：：模型:[https://civitai.com/models/439889/prefect-pony-xl]
+  - **Stable Diffusion API**：用于图像生成。应在 `[http://127.0.0.1:9999/sdapi/v1/txt2img]` 运行。【我使用SD-FORGE-WEBUI】：：：[https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file]
+  - 模型:[https://civitai.com/models/439889/prefect-pony-xl]
 
 
 - **音频输出设备**：确保音频输出设备可用且配置正确。
