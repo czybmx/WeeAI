@@ -1,0 +1,7 @@
+streamlit
+requests
+sentence-transformers
+sounddevice
+soundfile
+Pillow
+numpy
